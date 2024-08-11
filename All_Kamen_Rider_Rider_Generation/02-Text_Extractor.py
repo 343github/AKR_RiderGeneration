@@ -104,6 +104,13 @@ def main():
     for file in files:
         process_file(file)
     
+    # Move the .nds file to the Eng folder
+    nds_file_path = 'All Kamen Rider - Rider Generation.nds'
+    eng_folder = os.path.join("Inserter", "Eng")
+    
+    if os.path.exists(nds_file_path):
+        shutil.move(nds_file_path, os.path.join(eng_folder, os.path.basename(nds_file_path)))
+        
     print("Process successfully completed.")
 
 if __name__ == '__main__':
