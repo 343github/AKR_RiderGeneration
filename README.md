@@ -2,7 +2,9 @@
 Tools for extracting and inserting text into the game
 All Kamen Rider: Rider Generation.
 
-You will need a copy of your .nds rom "All Kamen Rider: Rider Generation.nds" and python 3
+You will need a copy of your .nds rom "All Kamen Rider: Rider Generation.nds" and python 3  
+ROM SHA-1: CC6A531ACF0E325E242827673241AE2D6333391E  
+ROM CRC32: 986B74F0  
 
 1-Place the rom in the All_Kamen_Rider_Rider_Generation folder.  
 2-Run the file File_Extractor.py (Extract the files containing the text of the game)  
@@ -23,6 +25,8 @@ Herramientas para extraer e insertar texto en el juego
 All Kamen Rider: Rider Generation.
 
 Necesitarás una copia de tu rom .nds "All Kamen Rider: Rider Generation.nds" y python 3
+ROM SHA-1: CC6A531ACF0E325E242827673241AE2D6333391E  
+ROM CRC32: 986B74F0  
 
 1-Coloca el rom en la carpeta All_Kamen_Rider_Rider_Generation  
 2-Ejecuta el archivo File_Extractor.py (Extrae los archivos que contienen el texto del juego)  
